@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?D. Riagardy&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?d-touby&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=D. Rigardy&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=d-touby&color=blueviolet&style=for-the-badge)
 
 ⭐️ _From [Diga Rigardy Touby](https://github.com/D. Rigardy)_
 
