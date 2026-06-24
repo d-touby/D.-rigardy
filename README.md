@@ -63,6 +63,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d-touby&color=blueviolet&style=for-the-badge)
 
-⭐️ _From [Diga Rigardy Touby](https://github.com/D. Rigardy)_
+⭐️ _From [Diga Rigardy Touby](https://github.com/d-touby)_
 
 </div>
