@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?D.-riagardy&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
