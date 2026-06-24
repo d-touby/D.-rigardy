@@ -37,25 +37,15 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?d-touby&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
-| 💼 LinkedIn | [linkedin.com/in/USERNAME_KAMU](https://linkedin.com/in/USERNAME_KAMU) |
-| 📸 Instagram | [@USERNAME_KAMU](https://instagram.com/USERNAME_KAMU) |
+| 📧 Email | [rigardytouby@email.com](mailto:rigardyotuby@email.com) |
+| 💼 LinkedIn | [linkedin.com/in/diga rigardy touby](https://linkedin.com/in/diga-rigardy-touby) |
+| 📸 Instagram | [@rigardy-touby](https://instagram.com/rigardy-touby) |
 
 </div>
 
