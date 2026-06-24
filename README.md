@@ -44,8 +44,8 @@
 | Platform | Link |
 |----------|------|
 | 📧 Email | [rigardytouby@email.com](mailto:rigardyotuby@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/diga rigardy touby](https://linkedin.com/in/diga-rigardy-touby) |
-| 📸 Instagram | [@rigardy-touby](https://instagram.com/rigardy-touby) |
+| 💼 LinkedIn | [linkedin.com/in/diga rigardy touby](https://www.linkedin.com/in/diga-rigardy-touby-467992389/) |
+| 📸 Instagram | [@rigardy-touby](https://www.instagram.com/rigardy_touby/?hl=en) |
 
 </div>
 
